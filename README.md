@@ -1,4 +1,3 @@
-- Consume steam topik from upload application
 ========== run application  =============
 - open terminal and go to root directori
 - run mvn clean install
